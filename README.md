@@ -1,2 +1,2 @@
 # QG-recruit-weekly
-QG作业和周记
+QG训练营的每周作业和周记
